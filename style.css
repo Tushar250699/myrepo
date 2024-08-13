@@ -1,0 +1,10 @@
+body{
+  background-color: light gray;
+  border: 2px solid green;
+}
+
+.heading{
+  color: red;
+  font-size: 300;
+  
+}
